@@ -1,0 +1,16 @@
+C:\Users\90551\Desktop\C#\ArrayMetodlari\bin\Debug\net5.0\ArrayMetodlari.exe
+C:\Users\90551\Desktop\C#\ArrayMetodlari\bin\Debug\net5.0\ArrayMetodlari.deps.json
+C:\Users\90551\Desktop\C#\ArrayMetodlari\bin\Debug\net5.0\ArrayMetodlari.runtimeconfig.json
+C:\Users\90551\Desktop\C#\ArrayMetodlari\bin\Debug\net5.0\ArrayMetodlari.runtimeconfig.dev.json
+C:\Users\90551\Desktop\C#\ArrayMetodlari\bin\Debug\net5.0\ArrayMetodlari.dll
+C:\Users\90551\Desktop\C#\ArrayMetodlari\bin\Debug\net5.0\ref\ArrayMetodlari.dll
+C:\Users\90551\Desktop\C#\ArrayMetodlari\bin\Debug\net5.0\ArrayMetodlari.pdb
+C:\Users\90551\Desktop\C#\ArrayMetodlari\obj\Debug\net5.0\ArrayMetodlari.csproj.AssemblyReference.cache
+C:\Users\90551\Desktop\C#\ArrayMetodlari\obj\Debug\net5.0\ArrayMetodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90551\Desktop\C#\ArrayMetodlari\obj\Debug\net5.0\ArrayMetodlari.AssemblyInfoInputs.cache
+C:\Users\90551\Desktop\C#\ArrayMetodlari\obj\Debug\net5.0\ArrayMetodlari.AssemblyInfo.cs
+C:\Users\90551\Desktop\C#\ArrayMetodlari\obj\Debug\net5.0\ArrayMetodlari.csproj.CoreCompileInputs.cache
+C:\Users\90551\Desktop\C#\ArrayMetodlari\obj\Debug\net5.0\ArrayMetodlari.dll
+C:\Users\90551\Desktop\C#\ArrayMetodlari\obj\Debug\net5.0\ref\ArrayMetodlari.dll
+C:\Users\90551\Desktop\C#\ArrayMetodlari\obj\Debug\net5.0\ArrayMetodlari.pdb
+C:\Users\90551\Desktop\C#\ArrayMetodlari\obj\Debug\net5.0\ArrayMetodlari.genruntimeconfig.cache
